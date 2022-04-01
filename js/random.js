@@ -1,0 +1,1 @@
+hexo.extend.generator.register("random",(function(t){const o=hexo.config.random||{},a=[];for(const o of t.posts.data)!1!==o.random&&a.push(o.path);return{path:o.path||"random/index.html",data:`<html><head><script>var posts=${JSON.stringify(a)};window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self")<\/script></head></html>`}}));
