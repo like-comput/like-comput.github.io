@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ZenArEの部落格</title>
+    <link>http://easycode.run/</link>
+    
+    <image>
+      <url>http://easycode.run/icon.png</url>
+      <title>ZenArEの部落格</title>
+      <link>http://easycode.run/</link>
+    </image>
+    
+    <atom:link href="http://easycode.run/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>一个在设计与交互十字路口的代码屋</description>
+    <pubDate>Sat, 02 Apr 2022 04:33:05 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>ZenArE的博客正式上线</title>
+      <link>http://easycode.run/2022/04/02/WELCOME/</link>
+      <guid>http://easycode.run/2022/04/02/WELCOME/</guid>
+      <pubDate>Sat, 02 Apr 2022 02:32:47 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;ZenArE的博客正式上线&quot;&gt;&lt;a href=&quot;#ZenArE的博客正式上线&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>http://easycode.run/2022/04/02/WELCOME/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>如何写好博客</title>
+      <link>http://easycode.run/2022/03/09/%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E5%8D%9A%E5%AE%A2/</link>
+      <guid>http://easycode.run/2022/03/09/%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E5%8D%9A%E5%AE%A2/</guid>
+      <pubDate>Wed, 09 Mar 2022 13:41:51 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;对博客价值的根本性认识错误，以为个人博客是用来抒发“个人情感和认识”的，这是最常见的认识错误。</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>http://easycode.run/2022/03/09/%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E5%8D%9A%E5%AE%A2/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>使用coding+picgo搭建图床</title>
+      <link>http://easycode.run/2022/03/06/%E4%BD%BF%E7%94%A8gitee-picgo%E6%90%AD%E5%BB%BA%E5%9B%BE%E5%BA%8A/</link>
+      <guid>http://easycode.run/2022/03/06/%E4%BD%BF%E7%94%A8gitee-picgo%E6%90%AD%E5%BB%BA%E5%9B%BE%E5%BA%8A/</guid>
+      <pubDate>Sat, 05 Mar 2022 23:24:32 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;一、Gitee&quot;&gt;&lt;a href=&quot;#一、Gitee&quot; class=&quot;headerlink&quot; title=&quot;一、Gitee&quot;&gt;&lt;/a&gt;一、Gitee&lt;/h1&gt;&lt;h2 id=&quot;1、创建仓库&quot;&gt;&lt;a href=&quot;#1、创建仓库&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://easycode.run/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <comments>http://easycode.run/2022/03/06/%E4%BD%BF%E7%94%A8gitee-picgo%E6%90%AD%E5%BB%BA%E5%9B%BE%E5%BA%8A/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>宝塔一键优化脚本</title>
+      <link>http://easycode.run/2022/03/06/%E5%AE%9D%E5%A1%94%E7%BA%AF%E5%87%80%E8%84%9A%E6%9C%AC/</link>
+      <guid>http://easycode.run/2022/03/06/%E5%AE%9D%E5%A1%94%E7%BA%AF%E5%87%80%E8%84%9A%E6%9C%AC/</guid>
+      <pubDate>Sat, 05 Mar 2022 22:50:58 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;这个是自用的宝塔面板一键优化补丁，主要有以下优化项目：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;去除各种删除操作时的计算题与延时等待&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;去除创建网站自动创建的垃圾文件（index.html、404.html、.htaccess）&lt;/p&gt;
+&lt;/li&gt;
+</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://easycode.run/categories/%E6%8E%A8%E8%8D%90/">推荐</category>
+      
+      
+      
+      <comments>http://easycode.run/2022/03/06/%E5%AE%9D%E5%A1%94%E7%BA%AF%E5%87%80%E8%84%9A%E6%9C%AC/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>《Time to Shine》— 北京冬奥开幕式</title>
+      <link>http://easycode.run/2022/02/04/tianyidongao/</link>
+      <guid>http://easycode.run/2022/02/04/tianyidongao/</guid>
+      <pubDate>Fri, 04 Feb 2022 03:46:09 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;今天，冬奥开幕，中国加油，北京加油！嗯，似乎洛天依不是吃货了（ ？&lt;br&gt;还有，天依的新模型好好看~  要画质高点的话去B站上看~ 华夏风韵，洛水天依~&lt;/p&gt;
+&lt;iframe</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://easycode.run/categories/%E4%BA%8C%E6%AC%A1%E5%85%83/">二次元</category>
+      
+      
+      <category domain="http://easycode.run/tags/%E6%B4%9B%E5%A4%A9%E4%BE%9D/">洛天依</category>
+      
+      
+      <comments>http://easycode.run/2022/02/04/tianyidongao/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Vposy Adobe CS6-2022破解全家桶</title>
+      <link>http://easycode.run/2022/01/23/vposyadobe/</link>
+      <guid>http://easycode.run/2022/01/23/vposyadobe/</guid>
+      <pubDate>Sun, 23 Jan 2022 12:00:58 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;今年国内出现了一位破解Adobe软件的高手，就是这位被大家称为大神的vposy。&lt;/p&gt;
+&lt;h2 id=&quot;vposy大神是谁？为什么敢破解？&quot;&gt;&lt;a href=&quot;#vposy大神是谁？为什么敢破解？&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://easycode.run/categories/%E7%99%BD%E5%AB%96-Adobe/">白嫖 - Adobe</category>
+      
+      
+      <category domain="http://easycode.run/tags/%E7%A0%B4%E8%A7%A3/">破解</category>
+      
+      
+      <comments>http://easycode.run/2022/01/23/vposyadobe/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>百度网盘，任你白嫖！</title>
+      <link>http://easycode.run/2022/01/23/bddfast/</link>
+      <guid>http://easycode.run/2022/01/23/bddfast/</guid>
+      <pubDate>Sat, 22 Jan 2022 16:00:58 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Tips:&lt;br&gt;此教程仅供参考,程序仅供学习交流,严禁用于商业用途,请于24小时内删除！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://easycode.run/categories/%E7%99%BD%E5%AB%96/">白嫖</category>
+      
+      
+      <category domain="http://easycode.run/tags/%E7%99%BD%E5%AB%96/">白嫖</category>
+      
+      
+      <comments>http://easycode.run/2022/01/23/bddfast/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>每人必备的网站大全，给你全面惊喜</title>
+      <link>http://easycode.run/2021/09/19/shiyong/</link>
+      <guid>http://easycode.run/2021/09/19/shiyong/</guid>
+      <pubDate>Sun, 19 Sep 2021 05:22:57 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;学习类&quot;&gt;&lt;a href=&quot;#学习类&quot; class=&quot;headerlink&quot; title=&quot;学习类&quot;&gt;&lt;/a&gt;学习类&lt;/h1&gt;&lt;p&gt;CSDN： &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://easycode.run/categories/%E6%8E%A8%E8%8D%90/">推荐</category>
+      
+      
+      <category domain="http://easycode.run/tags/%E5%88%86%E4%BA%AB/">分享</category>
+      
+      
+      <comments>http://easycode.run/2021/09/19/shiyong/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>教你学会写文档最好的Markdown语法</title>
+      <link>http://easycode.run/2021/01/05/markdown/</link>
+      <guid>http://easycode.run/2021/01/05/markdown/</guid>
+      <pubDate>Tue, 05 Jan 2021 09:26:52 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;基础用法&quot;&gt;&lt;a href=&quot;#基础用法&quot; class=&quot;headerlink&quot; title=&quot;基础用法&quot;&gt;&lt;/a&gt;基础用法&lt;/h1&gt;&lt;h1 id=&quot;设置标题字体大小&quot;&gt;&lt;a href=&quot;#设置标题字体大小&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://easycode.run/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="http://easycode.run/tags/%E7%BC%96%E5%86%99-markdown/">编写 - markdown</category>
+      
+      
+      <comments>http://easycode.run/2021/01/05/markdown/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
